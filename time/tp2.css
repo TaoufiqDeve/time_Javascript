@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    background-image: linear-gradient(120deg, #04f7ff 0%, #1900ff 100%);
+  }
+  
+  
+  #chrono {
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  button {
+    font-size: 25px;
+    width: 150px;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: antiquewhite;
+  }
+label{
+  font-size: 20px;
+  color: #168600;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+  
+  
